@@ -1,0 +1,16 @@
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\bin\Debug\TimeTrackerV1.exe.config
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\bin\Debug\TimeTrackerV1.exe
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\bin\Debug\TimeTrackerV1.pdb
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.csprojAssemblyReference.cache
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.LoginForm.resources
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.MainForm.resources
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.Properties.Resources.resources
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.TaskForm.resources
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.csproj.GenerateResource.cache
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.csproj.CoreCompileInputs.cache
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.exe
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.pdb
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\bin\Debug\TimeTrackerV1.exe.manifest
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\bin\Debug\TimeTrackerV1.application
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.exe.manifest
+D:\Programy\Repositories\TimeTrackerV1\TimeTrackerV1\obj\Debug\TimeTrackerV1.application
