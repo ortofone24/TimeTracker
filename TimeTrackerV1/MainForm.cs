@@ -109,7 +109,7 @@ namespace TimeTrackerV1
             txtCurrentTime.Text = "choose another task";
             btnEndTask.Enabled = false;
 
-            if (seconds >= 60)
+            if (seconds >= 60 && seconds < 3600)
             {
                 txtTotalTime.Text = (seconds / 60).ToString("0") + " min";
             }
